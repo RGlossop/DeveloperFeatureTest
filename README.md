@@ -66,7 +66,7 @@ easy way to make your markdown abit more readable, like setting variables!
 ## ADVANCED !
 
 ### Aligning images
-_The next bits are hard breaks or it messes with the formatting, ew right?
+_The next bits are hard breaks or it messes with the formatting, ew right?_
 
 
 <img align="left" width="100" height="100" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">  
@@ -78,10 +78,22 @@ _The next bits are hard breaks or it messes with the formatting, ew right?
 <p align="center">
   <img width="460" height="300" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">
 </p>  
-
 *and of course, center*
 
+### Tables
 
+| Table       | Food        |
+| ----------- | ----------- |
+| Wooden      | Dinner      |
+| Mahogany    | Lunch       |
+
+
+#### Aligning tables
+_notice the dots on the header lines_
+| Left Align  | Centre Align | Right Align   |
+| :---        |    :----:    |          ---: |
+| Row1        | Row1         | Row1          |
+| Row2        | Row2         | Row2          |
 
 
 [blue]: https://cdn.images.express.co.uk/img/dynamic/footballteams/x256/20.png
