@@ -6,7 +6,8 @@
 ###### Header 6 - Smallest
 
 
-_im Quoting that each # makes the header smaller and smaller_#
+_im Quoting that each # makes the header smaller and smaller_
+
 **This is great for making a point**
 
 > "Wise man once said"  (_works great with italics_)
