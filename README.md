@@ -38,6 +38,7 @@ Than one of these disgusting
 
 hard breaks
 
+## Linking!
 
 An inline link occurs within the text body, and is a really quick way of creating a link in your Markdown file. To do an inline link, you wrap the text you want to use as the link in square brackets [], and then put the link in normal brackets ():
 
@@ -47,8 +48,8 @@ An inline link occurs within the text body, and is a really quick way of creatin
 _These are like inpage nav elements of a website_
 
 Here's a link to [_Google_][google-link]  
-And one to *[GitHub][github-link]*
-*Links are at stored at the bottom how cool*
+And one to *[GitHub][github-link]*  
+*Links are at stored at the bottom how cool*  
 _They are stylable too oooh_
 
 My favourite food:  
@@ -60,6 +61,21 @@ the bracketed bit is the alt text.
 ![Manchester United][red]
 
 easy way to make your markdown abit more readable, like setting variables!
+
+
+## ADVANCED !
+
+### Aligning images
+
+*left align*  
+<img align="left" width="100" height="100" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">  
+*right align*  
+<img align="right" width="100" height="100" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">  
+*and of course, center*  
+<p align="center">
+  <img width="460" height="300" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">
+</p>
+
 
 
 
