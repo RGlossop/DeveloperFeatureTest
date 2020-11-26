@@ -46,9 +46,9 @@ An inline link occurs within the text body, and is a really quick way of creatin
 
 _These are like inpage nav elements of a website_
 
-Here's a link to [_Google_][google-link]
+Here's a link to [_Google_][google-link]  
 And one to [*GitHub*][github-link]
-*Links are at the bottom of the page ofc*
+*Links are at stored at the bottom how cool*
 _They are stylable too oooh_
 
 My favourite food:  
@@ -59,22 +59,12 @@ the bracketed bit is the alt text.
 ![Manchester City][blue]
 ![Manchester United][red]
 
-easy way to make your code abit more readable, like setting variables!
+easy way to make your markdown abit more readable, like setting variables!
 
 
 
 [blue]: https://cdn.images.express.co.uk/img/dynamic/footballteams/x256/20.png
 [red]: https://icons.iconseeker.com/png/fullsize/soccer-teams/manchester-united-fc-logo.png
-
-
-
-
-
-
-
-
-
-
 [google-link]: http://www.google.com
 [github-link]: http://www.github.com
   
