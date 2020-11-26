@@ -37,4 +37,44 @@ Its called a soft break and is much nicer!
 Than one of these disgusting
 
 hard breaks
+
+
+An inline link occurs within the text body, and is a really quick way of creating a link in your Markdown file. To do an inline link, you wrap the text you want to use as the link in square brackets [], and then put the link in normal brackets ():
+
+[GOOGLE IT!](http://www.google.com)
+
+
+_These are like inpage nav elements of a website_
+
+Here's a link to [_Google_][google-link]
+And one to [*GitHub*][github-link]
+*Links are at the bottom of the page ofc*
+_They are stylable too oooh_
+
+My favourite food:  
+![egg](https://qa-courseware-images.s3.eu-west-2.amazonaws.com/markdown/links_images/000.jpeg)
+
+the bracketed bit is the alt text.
+
+![Manchester City][blue]
+![Manchester United][red]
+
+easy way to make your code abit more readable, like setting variables!
+
+
+
+[blue]: https://cdn.images.express.co.uk/img/dynamic/footballteams/x256/20.png
+[red]: https://icons.iconseeker.com/png/fullsize/soccer-teams/manchester-united-fc-logo.png
+
+
+
+
+
+
+
+
+
+
+[google-link]: http://www.google.com
+[github-link]: http://www.github.com
   
