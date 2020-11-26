@@ -68,13 +68,12 @@ easy way to make your markdown abit more readable, like setting variables!
 ### Aligning images
 _The next bits are hard breaks or it messes with the formatting, ew right?
 
-*left align*  
+
 <img align="left" width="100" height="100" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">  
+*left align*  
 
-
-*right align*  
 <img align="right" width="100" height="100" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">  
-
+*right align*  
 
 *and of course, center*  
 <p align="center">
