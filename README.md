@@ -24,3 +24,16 @@ _im Quoting that each # makes the header smaller and smaller_
 1. Numbered
 2. Lists
 3. Are great for showing orders of things.
+
+* Indented
+ * list
+ * are a cool way of making
+  * stuff stand out in a list or show order
+
+Add two spaces at the end,  
+So each new lines is a new start,  
+Its called a soft break and is much nicer!
+
+Than one of these disgusting
+hard breaks
+  
