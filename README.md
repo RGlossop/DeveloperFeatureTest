@@ -47,7 +47,7 @@ An inline link occurs within the text body, and is a really quick way of creatin
 _These are like inpage nav elements of a website_
 
 Here's a link to [_Google_][google-link]  
-And one to [*GitHub*][github-link]
+And one to *[GitHub][github-link]*
 *Links are at stored at the bottom how cool*
 _They are stylable too oooh_
 
